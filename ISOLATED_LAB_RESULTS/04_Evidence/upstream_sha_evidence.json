@@ -1,0 +1,38 @@
+{
+  "project": "CPU_X",
+  "slug_source": "GitHub search API exact-name top match (candidates quoted)",
+  "picked_slug": "TheTumultuousUnicornOfDarkness/CPU-X",
+  "search_url": "https://api.github.com/search/repositories?q=cpu-x&per_page=5",
+  "search_status": 200,
+  "candidates": [
+    {
+      "full_name": "TheTumultuousUnicornOfDarkness/CPU-X",
+      "stars": 2656,
+      "license": "GPL-3.0"
+    },
+    {
+      "full_name": "fireice-uk/xmr-stak-cpu",
+      "stars": 1131,
+      "license": "GPL-3.0"
+    },
+    {
+      "full_name": "FOXBI/ch_cpuinfo",
+      "stars": 693,
+      "license": null
+    },
+    {
+      "full_name": "firoorg/cpuminer-xzc",
+      "stars": 33,
+      "license": "NOASSERTION"
+    },
+    {
+      "full_name": "xiangfeidexiaohuo/pve-diy",
+      "stars": 923,
+      "license": null
+    }
+  ],
+  "commit_url": "https://api.github.com/repos/TheTumultuousUnicornOfDarkness/CPU-X/commits/master",
+  "commit_status": 200,
+  "default_branch": null,
+  "commit_response_excerpt": "{\"sha\": \"bef2c44363f193ff844cfed41ac223a6ea5d57b7\", \"commit\": {\"message\": \"Release version 5.4.1\", \"committer_date\": \"2026-09-27T15:25:08Z\"}}"
+}
