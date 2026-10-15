@@ -540,9 +540,10 @@
  "version": "1.0.0",
  "source": {
   "git": {
-   "head": "bb727278d5cf7571f67a7709584351257dce0e4d",
-   "url": "https://github.com/openxla/xla",
-   "sha_verified_from": "agent_sha_api.json/github search (class-A)"
+   "url": "https://github.com/TheTumultuousUnicornOfDarkness/CPU-X",
+   "head": "bef2c44363f193ff844cfed41ac223a6ea5d57b7",
+   "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
+   "previous_substitute": "https://github.com/openxla/xla"
   }
  }
 }
