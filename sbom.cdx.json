@@ -1,0 +1,46 @@
+{
+ "bomFormat": "CycloneDX",
+ "specVersion": "1.5",
+ "serialNumber": "urn:uuid:84620868-41f6-546a-b1e2-afbb42564943",
+ "version": 1,
+ "metadata": {
+  "timestamp": "2026-10-06T12:29:18Z",
+  "component": {
+   "type": "application",
+   "name": "CPU_X",
+   "version": "83b357604d34",
+   "bom-ref": "pkg:generic/anticloud/CPU_X@83b357604d34",
+   "purl": "pkg:generic/anticloud/CPU_X@83b357604d34",
+   "licenses": [
+    {
+     "license": {
+      "id": "Apache-2.0"
+     }
+    }
+   ]
+  },
+  "properties": [
+   {
+    "name": "anticloud:source-commit",
+    "value": "REMOVED_CONTAMINATED_SHA_PENDING_API_RESOLVE"
+   },
+   {
+    "name": "anticloud:source-url",
+    "value": "<contaminated-url-removed>"
+   },
+   {
+    "name": "anticloud:tier",
+    "value": "tier-agent"
+   }
+  ]
+ },
+ "components": [],
+ "source": {
+  "git": {
+   "head": null,
+   "url": null,
+   "sha_unverified": true,
+   "note": "contamination removed; resolve via GitHub API before quoting"
+  }
+ }
+}

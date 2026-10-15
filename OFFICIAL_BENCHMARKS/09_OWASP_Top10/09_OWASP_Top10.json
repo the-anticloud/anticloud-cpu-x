@@ -1,0 +1,16 @@
+{
+ "framework": "09_OWASP_Top10",
+ "title": "OWASP Top 10 Web Application Security 2021",
+ "project": "CPU_X",
+ "basis": [
+  {
+   "check": "07_owasp_top10",
+   "status": "PASS",
+   "observed": "framework=OWASP Top 10 (2021) controls=9 verified=9 unverifi"
+  }
+ ],
+ "verdict": "CONTROLS EVIDENCED \u2014 all basis checks PASS",
+ "pax_provenance": "Run ID loiskleinner/pax-benchmark-runner v3, 2026-10-02, Kaggle T4 x2 (2x 16GB VRAM), Ubuntu 22.04, Python 3.12. These are PAX L5 Narrow L2 General 27B model-level results \u2014 shared model component, not this project's verdict.",
+ "bench_sha3": "450e9a8f2d53479cec80d5bffd512a508b275cd5ed7a0c89ba4cf55f41ad4836",
+ "register_sha3": "6c85f46cb8e041ec1f641e9bb5e3b1ffa2d4517f6a1b1bebf42f6e9e9dc3e5ec"
+}
